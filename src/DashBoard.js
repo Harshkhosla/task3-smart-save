@@ -11,7 +11,7 @@ const DashBoard = () => {
       </div>
 
       <div class="card">
-        <h2>Card 2</h2>
+        <h2>$89</h2>
         <p>Subtitle 2</p>
       </div>
 
